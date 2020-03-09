@@ -1,0 +1,17 @@
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKataTests\bin\Debug\CheckoutKataTexts.dll
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKataTests\bin\Debug\CheckoutKataTexts.pdb
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKataTests\obj\Debug\CheckoutKataTests.csprojAssemblyReference.cache
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKataTests\obj\Debug\CheckoutKataTests.csproj.CoreCompileInputs.cache
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKataTests\obj\Debug\CheckoutKataTests.csproj.CopyComplete
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKataTests\obj\Debug\CheckoutKataTexts.dll
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKataTests\obj\Debug\CheckoutKataTexts.pdb
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKataTests\bin\Debug\CheckoutKata.exe
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKataTests\bin\Debug\CheckoutKata.pdb
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKataTests\bin\Debug\CheckoutKata.exe.config

@@ -1,0 +1,7 @@
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKata\obj\Debug\CheckoutKata.csprojAssemblyReference.cache
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKata\obj\Debug\CheckoutKata.csproj.CoreCompileInputs.cache
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKata\bin\Debug\CheckoutKata.exe.config
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKata\bin\Debug\CheckoutKata.exe
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKata\bin\Debug\CheckoutKata.pdb
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKata\obj\Debug\CheckoutKata.exe
+C:\Users\Richard.Hatherill\source\repos\CheckoutKata\CheckoutKata\obj\Debug\CheckoutKata.pdb
